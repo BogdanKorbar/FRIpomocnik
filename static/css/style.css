@@ -1,0 +1,36 @@
+*{
+    box-sizing:border-box;
+}
+header{
+    background-color: aliceblue;
+}
+nav{
+    background-color:beige;
+    margin-bottom: 20px;
+    padding: 10px;
+}
+aside{
+    background-color:aliceblue;
+    width: 20%;
+    padding-left: 10px;
+    padding-bottom: 1px;
+    float:left;
+}
+section{
+    background-color: beige;
+    width: 80%;
+    float: left;
+    text-align: center;
+}
+footer{
+    position:absolute;
+    bottom:0;
+    left: 0;
+    right: 0;
+    height:40px;   
+    background:#6cf;
+    text-align: center;
+}
+#desnnav{
+    float: right;
+}
